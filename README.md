@@ -1,25 +1,19 @@
-# ReduxSimpleStarter
+# Author
+![@himanshumehta1114](https://avatars2.githubusercontent.com/himanshumehta1114?&s=128)
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+created by himanshu mehta.
+[Github](https://github.com/himanshumehta1114) | [FreeCodeCamp](http://www.freecodecamp.com/himanshumehta1114) | [CodePen](http://codepen.io/himanshumehta1114/) | [LinkedIn](https://www.linkedin.com/in/himanshumehta1114)
 
-### Getting Started
+# Youtube Clone
 
-There are two methods for getting started with this repo.
+## Install:
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+```url
+    npm install
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Run:
 
-```
-> npm install
-> npm start
+```url
+    node start
 ```
